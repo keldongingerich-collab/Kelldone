@@ -5,10 +5,10 @@ body {
   font-family: "Segoe UI", Roboto, sans-serif;
   margin: 0;
   background: #ffffff;
-  color: #fdfbfe;
+  color: #000000;
 }
 header {
-  background: linear-gradient(120deg, #eae6e6, #eae6e6);
+  background: linear-gradient(120deg, #c6c3c3, #c6c3c3);
   color: #000000;
   padding: 100px 20px;
   min-height: 750px;
