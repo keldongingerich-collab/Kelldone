@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <body>
+        <header>
+                <h1>Peanut Butter Cookies</h1>
+            </div>
+        </header>
+    
+    <main>
+        <artical=class="card">
+            <h2>Ingredients</h2>
+            <ol>
+                <li>1 cup of peanut butter</li>
+                <li>1 cup of sugar</li>
+                <li>1 egg</li>
+            </ol>
+            <h2>Instructions</h2>
+            <ol>
+                <li>Preheat oven to 350 degrees F (175 degrees C).</li>
+                
+                <li>In a medium bowl, mix together the peanut butter, sugar, and egg
+                until smooth. Roll the dough into 1-inch balls and place them on a 
+                baking sheet lined with parchment paper. Flatten each ball with a fork, 
+                making a crisscross pattern.</li>
+                
+                <li>Bake for 10-12 minutes, or until the edges are lightly browned. 
+                Allow the cookies to cool on the baking sheet for a few minutes before 
+                transferring them to a wire rack to cool completely. Enjoy your delicious
+                peanut butter cookies!</li>
+            </ol>
+
+        </artical>
+    </main>
+</body>
+</html>
