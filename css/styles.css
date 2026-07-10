@@ -39,7 +39,7 @@ main {
   padding: 40px 100px;
 }
 section {
-  background: #000000;
+  background: eae6e6;
   border-radius: 12px;
   padding: 24px;
   margin-bottom: 24px;
@@ -47,7 +47,7 @@ section {
 }
 section h2 {
   margin-top: 0;
-  color: #04AA6D;
+  color: #000000;
 }
 footer {
   padding: 24px;
