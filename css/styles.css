@@ -3,18 +3,18 @@
 }
 body {
   font-family: "Segoe UI", Roboto, sans-serif;
-  margin: 0;
+  margin: 40;
   background: #ffffff;
   color: #fdfbfe;
 }
 header {
   background: linear-gradient(120deg, #000000, #000000);
   color: #04AA6D;
-  padding: 60px 20px;
+  padding: 100px 20px;
   text-align: center;
 }
 main {
-  max-width: 960px;
+  max-width: 950px;
   margin: 10 auto;
   padding: 40px 20px;
 }
