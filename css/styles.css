@@ -11,7 +11,7 @@ header {
   background: linear-gradient(120deg, #c6c3c3, #c6c3c3);
   color: #000000;
   padding: 100px 20px;
-  min-height: 750px;
+  min-height: 325px;
   vertical-align: middle;
 }
 header #left {
